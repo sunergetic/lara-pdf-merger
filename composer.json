@@ -1,5 +1,5 @@
 {
-    "name": "daltcore/lara-pdf-merger",
+    "name": "sunergetic/lara-pdf-merger",
     "description": "Forked repository because the original, is crashing the application",
     "keywords": ["merger","merge","pdf","manage","paginate", "laravel", "duplex merge"],
     "license" : [
